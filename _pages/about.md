@@ -22,10 +22,14 @@ I have a engineering degree from AgroParisTech, majoring in biotechnology. I
 email : antoine.poirot.bourdain[at]gmail.com
 
 
-<!-- Experience
+Experience
 ======
 
- -->
+### 2023 - 2024 : Reaserch Engineer in the Heka team
+
+I am detached from 
+
+### 
 
 
 
