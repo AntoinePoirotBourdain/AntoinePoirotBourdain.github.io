@@ -28,8 +28,8 @@ main:
 #     url: /research/
 
 
-  - title: "Scientific Interests"
-    url: /interests/
+  # - title: "Scientific Interests"
+  #   url: /interests/
 
   - title: "Research"
     url: /research/
