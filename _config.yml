@@ -211,6 +211,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  interests:
+    output: true
+    permalink: /:collection/:path/
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
@@ -277,6 +280,13 @@ defaults:
       type: research
     values:
       layout: research
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: interests
+    values:
+      layout: interests
       author_profile: true
       share: true
 
