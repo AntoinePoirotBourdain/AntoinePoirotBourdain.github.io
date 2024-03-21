@@ -9,27 +9,36 @@ redirect_from:
 
 I am currently a research engineer at the  [Heka](https://team.inria.fr/heka/fr/) team. I am currently working on the [survivalGPU](https://github.com/jeanfeydy/survivalGPU) library thait aims to accelerate survival algorithms (CoxPH, WCE...) by using GPUs. 
 
-I have a engineering degree from AgroParisTech, majoring in biotechnology. I 
+I have a engineering degree from AgroParisTech, majoring in biotechnology. Discovoring that the lab wasn't for me I have switch to a data scientist career. Working as a research engineer allow me to apply my new skills to a field that is important to me. 
 
-###  Reaserch focus : 
+
+
+###  Research focus : 
 
 - Biostatistics
 - Data science 
 - GPU acceleration
+
+### Scientific interests 
+
+- Digital health
+- Environemental biotechnology
+- Directed evolution 
+- Chance in biology
 
 ### Contact
 
 email : antoine.poirot.bourdain[at]gmail.com
 
 
-Experience
+<!-- Experience
 ======
 
 ### 2023 - 2024 : Reaserch Engineer in the Heka team
 
 I am detached from 
 
-### 
+###  -->
 
 
 
