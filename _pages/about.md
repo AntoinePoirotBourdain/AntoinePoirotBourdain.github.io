@@ -23,7 +23,7 @@ I have a engineering degree from AgroParisTech, majoring in biotechnology. Disco
 
 - Digital health
 - Environemental biotechnology
-- Directed evolution 
+- Evolutionnary biology
 - Chance in biology
 
 ### Contact
