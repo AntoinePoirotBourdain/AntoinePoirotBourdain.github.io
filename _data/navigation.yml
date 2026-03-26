@@ -17,6 +17,9 @@ main:
 
   - title: "Research"
     url: /research/
+
+  - title: "Talks & Events"
+    url: /talks/   
     
   - title: "CV"
     url: /files/CV.pdf
