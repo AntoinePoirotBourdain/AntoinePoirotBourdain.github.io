@@ -21,6 +21,9 @@ main:
   - title: "Talks & Events"
     url: /talks/   
     
+  - title: "Teaching"
+    url: /teaching/   
+    
   - title: "CV"
     url: /files/CV.pdf
     
@@ -30,10 +33,7 @@ main:
 #  - title: "Scientifc Interests"
 #     url: /Scientifc Interests/
 
-#  - title: "Research"
-#     url: /research/
 
 
   # - title: "Scientific Interests"
   #   url: /interests/
-
