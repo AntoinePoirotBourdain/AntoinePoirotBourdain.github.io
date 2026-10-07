@@ -13,7 +13,7 @@ author_profile: true
 
 * SurvivalGPU: scalable survival analysis in R and Python \[[slides]({{ base_path }}/files/slides/ISCB_Survivalgpu.pdf)\]  
   *ISCB GDMS 2026*, September 2026, Freiburg-en-Brigsau, Germany
-* Recosntruction of patient medical history from medico-administrative databases \[[slides]({{ base_path }}/files/slides/YRD_2026.pdf)\]  
+* Reconstruction of patient medical history from medico-administrative databases \[[slides]({{ base_path }}/files/slides/YRD_2026.pdf)\]  
   *Ceremade, Young Researcher Days*, June 2026, France
 * SurvivalGPU: scalable survival analysis in R and Python \[[slides]({{ base_path }}/files/slides/survivalgpu_jr_seminar.pdf)\]  
   *Ceremade, Young Researchers Seminar*, May 2026, Paris, France
