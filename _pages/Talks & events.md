@@ -11,7 +11,9 @@ author_profile: true
 
 ## Talks
 
-* SurvivaLGPU: scalable survival analysis for R and Python \[[slides]({{ base_path }}/files/slides/survivalgpu_jr_seminar.pdf)\]  
+* SurvivalGPU: scalable survival analysis for R and Python \[[slides]({{ base_path }}/files/slides/survivalgpu_ISCB.pdf)\]  
+  *ISCB GDMS*, September 2026, Paris
+* SurvivalGPU: scalable survival analysis for R and Python \[[slides]({{ base_path }}/files/slides/survivalgpu_jr_seminar.pdf)\]  
   *Ceremade, Jr seminar*, May 2026, Paris
 * SurvivalGPU: a GPU-powered library for scalable survival analysis in R and Python \[[slides]({{ base_path }}/files/slides/dev_meetup.pdf)\]  
   *INRIA developer meetups*, Mars 2025, Paris
