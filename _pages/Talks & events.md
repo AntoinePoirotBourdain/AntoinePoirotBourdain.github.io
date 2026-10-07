@@ -11,17 +11,18 @@ author_profile: true
 
 ## Talks
 
-* SurvivalGPU: scalable survival analysis for R and Python \[[slides]({{ base_path }}/files/slides/survivalgpu_ISCB.pdf)\]  
-  *ISCB GDMS*, September 2026, Paris
-* SurvivalGPU: scalable survival analysis for R and Python \[[slides]({{ base_path }}/files/slides/survivalgpu_jr_seminar.pdf)\]  
-  *Ceremade, Jr seminar*, May 2026, Paris
+* SurvivalGPU: scalable survival analysis in R and Python \[[slides]({{ base_path }}/files/slides/ISCB_Survivalgpu.pdf)\]  
+  *ISCB GDMS 2026*, September 2026, Freiburg-en-Brigsau, Germany
+* Recosntruction of patient medical history from medico-administrative databases \[[slides]({{ base_path }}/files/slides/YRD_2026.pdf)\]  
+* SurvivalGPU: scalable survival analysis in R and Python \[[slides]({{ base_path }}/files/slides/survivalgpu_jr_seminar.pdf)\]  
+  *Ceremade, Young Researchers Seminar*, May 2026, Paris, France
 * SurvivalGPU: a GPU-powered library for scalable survival analysis in R and Python \[[slides]({{ base_path }}/files/slides/dev_meetup.pdf)\]  
-  *INRIA developer meetups*, Mars 2025, Paris
+  *INRIA developer meetups*, Mars 2025, Paris, France
 
 
 
 ## Poster
 
 * SurvivalGPU: a GPU-powered library for scalable survival analysis in R and Python \[[poster]({{ base_path }}/files/posters/AI4health_poster.pdf)\] 
-  *AI4 Health summer school*, July 2025, Paris
+  *AI4 Health summer school*, July 2025, Paris, France
 
